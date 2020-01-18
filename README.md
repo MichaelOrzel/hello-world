@@ -1,4 +1,3 @@
-# hello-world
-Repository practice.
+Hello World, Repository Practice.
 
-I am learning HTML, CSS, and JavaScript. I enjoy playing fighting games.
+This repository is made for the sole purpose to allow me to practice GitHub functionality such as: Commits, Pull Requests, and using Branches.
